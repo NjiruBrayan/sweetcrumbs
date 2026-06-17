@@ -1,2 +1,1 @@
-# sweetcrumbs
-sweetcrumbs
+SweetCrumbs Bakery website project
